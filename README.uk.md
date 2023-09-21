@@ -1,4 +1,4 @@
-# React Project Template
+# React Project Template Single Page
 
 Цей проєкт був зібраний за допомогою
 [Vite](https://vitejs.dev/). Ознайомитись та налаштувати додатковий функціонал
@@ -12,7 +12,7 @@
 
 ```bash
 
-git clone https://github.com/KHARKIVSKA-KURKUMA/react-vite-project-template-js.git
+git clone https://github.com/KHARKIVSKA-KURKUMA/react-vite-project-template.git
 
 ```
 
@@ -36,7 +36,7 @@ npm start
 
 <a id="deployment-section"></a>
 
-## Розгортання (Deploy) 
+## Розгортання (Deploy)
 
 Замініть `<YOUR_REPO_NAME>` на назву вашого репозиторія в файлі `vite.config.js`
 
@@ -71,7 +71,7 @@ if (command !== "serve") {
 адресою, `https://<YOUR_GITHUB_USERNAME>.github.io/<REPO_NAME>/`. Наприклад, ось посилання
 до живої версії для цього репозиторію
 
-[https://kharkivska-kurkuma.github.io/react-vite-project-template-js/](https://kharkivska-kurkuma.github.io/react-vite-project-template-js/).
+[https://kharkivska-kurkuma.github.io/react-vite-project-template/](https://kharkivska-kurkuma.github.io/react-vite-project-template/).
 
 Якщо відкривається порожня сторінка, переконайтеся, що на вкладці `Console` немає помилок
 пов'язаних з неправильними шляхами до файлів CSS і JS проекту (**404**). Якщо помилки існують перевірте шляхи описані в секції [Deploy](#deployment-section)

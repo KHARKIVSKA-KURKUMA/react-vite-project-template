@@ -1,4 +1,4 @@
-# React Project Template
+# React Project Template Single Page
 
 This project was created with
 [Vite](https://vitejs.dev/). To get
@@ -13,7 +13,7 @@ To run this React Project Template on your local machine, follow these steps:
 
 ```bash
 
-git clone https://github.com/KHARKIVSKA-KURKUMA/react-vite-project-template-js.git
+git clone https://github.com/KHARKIVSKA-KURKUMA/react-vite-project-template.git
 
 ```
 
@@ -72,7 +72,7 @@ After some time, usually a couple of minutes, the live page can be viewed at the
 address `https://<YOUR_GITHUB_USERNAME>.github.io/<REPO_NAME>/`. For example, here is a link
 to a live version for this repository
 
-[https://kharkivska-kurkuma.github.io/react-vite-project-template-js/](https://kharkivska-kurkuma.github.io/react-vite-project-template-js/).
+[https://kharkivska-kurkuma.github.io/react-vite-project-template/](https://kharkivska-kurkuma.github.io/react-vite-project-template/).
 
 If a blank page opens, make sure there are no errors in the `Console` tab
 related to incorrect paths to the CSS and JS files of the project (**404**). If you have such errors double check [Deploy Section](#deploy)
