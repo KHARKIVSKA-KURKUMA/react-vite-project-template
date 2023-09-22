@@ -45,7 +45,7 @@ if (command !== "serve") {
 }
 ```
 
-The production version of the project will automatically be linted, built, and
+The production version of the project will automatically be built, and
 deployed to GitHub Pages every time the `main` branch
 is updated.
 
@@ -59,16 +59,16 @@ Next, you need to go to the settings of the GitHub repository (`Settings` >
 The deployment status of the latest commit is displayed with an icon next to its
 ID.
 
-- **Yellow color** - the project is being built and deployed.
-- **Green color** - deployment completed successfully.
-- **Red color** - an error occurred during linting, build or deployment.
+- <font color="yellow">Yellow color</font> - the project is being built and deployed.
+- <font color="green">Green color</font> - deployment completed successfully.
+- <font color="red">Red color</font> - an error occurred during linting, build, or deployment.
 
 More detailed information about the status can be viewed by clicking on the
-icon, and in the drop-down window, follow the link `Details`.
+icon and in the drop-down window, follow the link `Details`.
 
 ### Live page
 
-After some time, usually a couple of minutes, the live page can be viewed at the
+The page requires a couple of minutes to load, the live page can be viewed at the
 address `https://<YOUR_GITHUB_USERNAME>.github.io/<REPO_NAME>/`. For example, here is a link
 to a live version for this repository
 
