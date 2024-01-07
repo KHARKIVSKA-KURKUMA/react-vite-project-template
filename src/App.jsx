@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import { GlobalStyle } from "./GlobalStyles";
+import Example from "./components/Example/Example";
 
 const Container = styled.div`
   background-color: antiquewhite;
@@ -15,7 +16,7 @@ function App() {
   return (
     <Container>
       <GlobalStyle />
-      <div>Home</div>
+      <Example />
     </Container>
   );
 }
